@@ -1,8 +1,8 @@
 package usecases
 
 import (
-	"github.com/yourusername/blog/internal/entities"
-	"github.com/yourusername/blog/internal/interfaces"
+	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/entities"
+	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/interfaces"
 )
 
 // GetPostUseCase handles the use case for retrieving a blog post

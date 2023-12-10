@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/yourusername/blog/internal/entities"
-	"github.com/yourusername/blog/internal/interfaces"
+	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/entities"
+	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/interfaces"
 )
 
 // BlogPostHandler handles HTTP requests related to blog posts

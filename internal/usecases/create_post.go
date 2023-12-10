@@ -1,8 +1,8 @@
 package usecases
 
 import (
-	"blog/internal/entities"
-	"blog/internal/interfaces"
+	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/entities"
+	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/interfaces"
 )
 
 // CreatePostUseCase handles the use case for creating a blog post
