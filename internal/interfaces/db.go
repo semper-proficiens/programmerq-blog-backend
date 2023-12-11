@@ -1,6 +1,8 @@
 package interfaces
 
-import "github.com/semper-proficiens/programmerq-blog-backend/blog/internal/entities"
+import (
+	"programmerq-blog-backend/internal/entities"
+)
 
 // PostRepository defines the interface for interacting with the blog post repository
 type PostRepository interface {

@@ -3,10 +3,10 @@ package web
 import (
 	"encoding/json"
 	"net/http"
+	"programmerq-blog-backend/internal/entities"
+	"programmerq-blog-backend/internal/interfaces"
 
 	"github.com/gorilla/mux"
-	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/entities"
-	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/interfaces"
 )
 
 // BlogPostHandler handles HTTP requests related to blog posts

@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/semper-proficiens/programmerq-blog-backend/blog/internal/interfaces"
-	"github.com/semper-proficiens/programmerq-blog-backend/blog/pkg/web"
+	"programmerq-blog-backend/internal/interfaces"
+	"programmerq-blog-backend/pkg/web"
 )
 
 func main() {
